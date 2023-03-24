@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **django, AD exploitation and PrivEsc**
 
-- 👨‍💻 here is my protfolfio: [iasad.me](https://iasad.me)
+- 👨‍💻 here is my protfolfio for write-ups: [iasad.me](https://iasad.me)
 
 - 💬 Ask me about **web exp, forensics, cryptography**
 
