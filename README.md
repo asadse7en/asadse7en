@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadse7en&label=Profile%20views&color=0e75b6&style=flat" alt="asadse7en" /> </p>
 
-- 🌱 I’m currently learning **django, AD exploitation and PrivEsc**
+- 🌱 I’m currently learning **Digital Forensics, Active Directory and PrivEsc**
 
 - 👨‍💻 here is my protfolfio: [iasad.me](https://iasad.me)
 
